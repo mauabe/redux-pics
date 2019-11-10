@@ -1,7 +1,7 @@
 {
   "name": "redux-pics",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a work-in-progress for an online photo album repository - currently on hold until I find more time to work on it",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
@@ -35,6 +35,7 @@
     "eslint-plugin-babel": "^3.2.0",
     "eslint-plugin-react": "^5.0.1",
     "express": "^4.13.4",
+    "lodash": "^4.17.15",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
     "react-addons-css-transition-group": "^15.0.2",
