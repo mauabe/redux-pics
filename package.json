@@ -41,7 +41,7 @@
     "growl": "^1.10.5",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.19",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
     "react-addons-css-transition-group": "^15.0.2",
